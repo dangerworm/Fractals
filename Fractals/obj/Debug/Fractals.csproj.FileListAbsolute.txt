@@ -1,0 +1,66 @@
+C:\Documents and Settings\Drew\Local Settings\Application Data\Temporary Projects\Fractals\bin\Debug\Fractals.exe
+C:\Documents and Settings\Drew\Local Settings\Application Data\Temporary Projects\Fractals\bin\Debug\Fractals.pdb
+C:\Documents and Settings\Drew\Local Settings\Application Data\Temporary Projects\Fractals\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Drew\Local Settings\Application Data\Temporary Projects\Fractals\obj\Debug\Fractals.Properties.Resources.resources
+C:\Documents and Settings\Drew\Local Settings\Application Data\Temporary Projects\Fractals\obj\Debug\Fractals.csproj.GenerateResource.Cache
+C:\Documents and Settings\Drew\Local Settings\Application Data\Temporary Projects\Fractals\obj\Debug\Fractals.exe
+C:\Documents and Settings\Drew\Local Settings\Application Data\Temporary Projects\Fractals\obj\Debug\Fractals.pdb
+C:\Documents and Settings\Drew\Local Settings\Application Data\Temporary Projects\Fractals\bin\Debug\Fractals.exe.manifest
+C:\Documents and Settings\Drew\Local Settings\Application Data\Temporary Projects\Fractals\bin\Debug\Fractals.application
+C:\Documents and Settings\Drew\Local Settings\Application Data\Temporary Projects\Fractals\obj\Debug\Fractals.Main.resources
+C:\Documents and Settings\Drew\Local Settings\Application Data\Temporary Projects\Fractals\obj\Debug\Fractals.exe.manifest
+C:\Documents and Settings\Drew\Local Settings\Application Data\Temporary Projects\Fractals\obj\Debug\Fractals.application
+C:\Documents and Settings\Drew\My Documents\Visual Studio 2008\Projects\Fractals\Fractals\obj\Debug\Fractals.exe
+C:\Documents and Settings\Drew\My Documents\Visual Studio 2008\Projects\Fractals\Fractals\obj\Debug\Fractals.pdb
+C:\Documents and Settings\Drew\My Documents\Visual Studio 2008\Projects\Fractals\Fractals\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Drew\My Documents\Visual Studio 2008\Projects\Fractals\Fractals\obj\Debug\Fractals.Main.resources
+C:\Documents and Settings\Drew\My Documents\Visual Studio 2008\Projects\Fractals\Fractals\obj\Debug\Fractals.Properties.Resources.resources
+C:\Documents and Settings\Drew\My Documents\Visual Studio 2008\Projects\Fractals\Fractals\obj\Debug\Fractals.csproj.GenerateResource.Cache
+C:\Documents and Settings\Drew\My Documents\Visual Studio 2008\Projects\Fractals\Fractals\bin\Debug\Fractals.exe.manifest
+C:\Documents and Settings\Drew\My Documents\Visual Studio 2008\Projects\Fractals\Fractals\bin\Debug\Fractals.application
+C:\Documents and Settings\Drew\My Documents\Visual Studio 2008\Projects\Fractals\Fractals\bin\Debug\Fractals.exe
+C:\Documents and Settings\Drew\My Documents\Visual Studio 2008\Projects\Fractals\Fractals\bin\Debug\Fractals.pdb
+C:\Documents and Settings\Drew\My Documents\Visual Studio 2008\Projects\Fractals\Fractals\obj\Debug\Fractals.exe.manifest
+C:\Documents and Settings\Drew\My Documents\Visual Studio 2008\Projects\Fractals\Fractals\obj\Debug\Fractals.application
+H:\Windows\Visual Studio 2008 Express Projects\Fractals\Fractals\obj\Debug\Fractals.exe
+H:\Windows\Visual Studio 2008 Express Projects\Fractals\Fractals\obj\Debug\Fractals.pdb
+G:\Windows\Visual Studio 2008 Express Projects\Fractals\Fractals\obj\Debug\Fractals.exe
+G:\Windows\Visual Studio 2008 Express Projects\Fractals\Fractals\obj\Debug\Fractals.pdb
+G:\Windows\Visual Studio 2008 Express Projects\Fractals\Fractals\obj\Debug\ResolveAssemblyReference.cache
+G:\Windows\Visual Studio 2008 Express Projects\Fractals\Fractals\obj\Debug\Fractals.Main.resources
+G:\Windows\Visual Studio 2008 Express Projects\Fractals\Fractals\obj\Debug\Fractals.Properties.Resources.resources
+G:\Windows\Visual Studio 2008 Express Projects\Fractals\Fractals\obj\Debug\Fractals.csproj.GenerateResource.Cache
+G:\Windows\Visual Studio 2008 Express Projects\Fractals\Fractals\bin\Debug\Fractals.exe.manifest
+G:\Windows\Visual Studio 2008 Express Projects\Fractals\Fractals\bin\Debug\Fractals.application
+G:\Windows\Visual Studio 2008 Express Projects\Fractals\Fractals\bin\Debug\Fractals.exe
+G:\Windows\Visual Studio 2008 Express Projects\Fractals\Fractals\bin\Debug\Fractals.pdb
+G:\Windows\Visual Studio 2008 Express Projects\Fractals\Fractals\obj\Debug\Fractals.exe.manifest
+G:\Windows\Visual Studio 2008 Express Projects\Fractals\Fractals\obj\Debug\Fractals.application
+C:\Users\Drew\Documents\Visual Studio 2010\Projects\Fractals\Fractals\obj\Debug\Fractals.exe
+C:\Users\Drew\Documents\Visual Studio 2010\Projects\Fractals\Fractals\obj\Debug\Fractals.pdb
+C:\Users\Drew\Documents\Visual Studio 2010\Projects\Fractals\Fractals\bin\Debug\Fractals.exe.manifest
+C:\Users\Drew\Documents\Visual Studio 2010\Projects\Fractals\Fractals\bin\Debug\Fractals.application
+C:\Users\Drew\Documents\Visual Studio 2010\Projects\Fractals\Fractals\bin\Debug\Fractals.exe
+C:\Users\Drew\Documents\Visual Studio 2010\Projects\Fractals\Fractals\bin\Debug\Fractals.pdb
+C:\Users\Drew\Documents\Visual Studio 2010\Projects\Fractals\Fractals\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Drew\Documents\Visual Studio 2010\Projects\Fractals\Fractals\obj\Debug\Fractals.Main.resources
+C:\Users\Drew\Documents\Visual Studio 2010\Projects\Fractals\Fractals\obj\Debug\Fractals.Properties.Resources.resources
+C:\Users\Drew\Documents\Visual Studio 2010\Projects\Fractals\Fractals\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Drew\Documents\Visual Studio 2010\Projects\Fractals\Fractals\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Drew\Documents\Visual Studio 2010\Projects\Fractals\Fractals\obj\Debug\Fractals.exe.manifest
+C:\Users\Drew\Documents\Visual Studio 2010\Projects\Fractals\Fractals\obj\Debug\Fractals.application
+C:\Users\Drew\Documents\Visual Studio 2010\Projects\Fractals\Fractals\obj\Debug\Fractals.TrustInfo.xml
+C:\Users\Drew\Dropbox\Programming Projects\C#\Fractals\Fractals\obj\Debug\Fractals.exe
+C:\Users\Drew\Dropbox\Programming Projects\C#\Fractals\Fractals\obj\Debug\Fractals.pdb
+C:\Users\Drew\Dropbox\Programming Projects\C#\Fractals\Fractals\bin\Debug\Fractals.exe.manifest
+C:\Users\Drew\Dropbox\Programming Projects\C#\Fractals\Fractals\bin\Debug\Fractals.application
+C:\Users\Drew\Dropbox\Programming Projects\C#\Fractals\Fractals\bin\Debug\Fractals.exe
+C:\Users\Drew\Dropbox\Programming Projects\C#\Fractals\Fractals\bin\Debug\Fractals.pdb
+C:\Users\Drew\Dropbox\Programming Projects\C#\Fractals\Fractals\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Drew\Dropbox\Programming Projects\C#\Fractals\Fractals\obj\Debug\Fractals.Main.resources
+C:\Users\Drew\Dropbox\Programming Projects\C#\Fractals\Fractals\obj\Debug\Fractals.Properties.Resources.resources
+C:\Users\Drew\Dropbox\Programming Projects\C#\Fractals\Fractals\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Drew\Dropbox\Programming Projects\C#\Fractals\Fractals\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Drew\Dropbox\Programming Projects\C#\Fractals\Fractals\obj\Debug\Fractals.TrustInfo.xml
+C:\Users\Drew\Dropbox\Programming Projects\C#\Fractals\Fractals\obj\Debug\Fractals.exe.manifest
+C:\Users\Drew\Dropbox\Programming Projects\C#\Fractals\Fractals\obj\Debug\Fractals.application
