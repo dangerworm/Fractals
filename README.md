@@ -17,4 +17,4 @@ The time wave came much later and is far less useful/pretty. It was a few
 years after I'd first made the application and tacked it on simply because
 it, too, came under the topic of fractals. Personally I'm satisfied that it's
 all complete baloney now but for those interested you can find out what it's
-for at [http://www.viewzone2.com/timewavex.html](Terence McKenna's Time Wave).
+for at [Terence McKenna's Time Wave](http://www.viewzone2.com/timewavex.html).
