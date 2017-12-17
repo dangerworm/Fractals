@@ -64,3 +64,5 @@ C:\Users\Drew\Dropbox\Programming Projects\C#\Fractals\Fractals\obj\Debug\Genera
 C:\Users\Drew\Dropbox\Programming Projects\C#\Fractals\Fractals\obj\Debug\Fractals.TrustInfo.xml
 C:\Users\Drew\Dropbox\Programming Projects\C#\Fractals\Fractals\obj\Debug\Fractals.exe.manifest
 C:\Users\Drew\Dropbox\Programming Projects\C#\Fractals\Fractals\obj\Debug\Fractals.application
+C:\Users\Andy\Source\Repos\Fractals\Fractals\obj\Debug\Fractals.exe
+C:\Users\Andy\Source\Repos\Fractals\Fractals\obj\Debug\Fractals.pdb
