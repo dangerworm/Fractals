@@ -7,6 +7,17 @@ Apart from the garish colours it turned out quite well, and I go back to it
 fairly regularly if only to show people what fractals actually are. This is
 probably one of my earlier C# projects but is easily one of the most gratifying.
 
+# Getting Started
+Load the solution (Fractals.sln) and ignore the project that doesn't load.
+Start the application, then:
+- double click on the Mandelbrot graph to update the Julia graph
+- click and drag on either graph to zoom in
+- click 'Reset' to go back to the start.
+
+Images can be generated if you wish to make a background or a high-definition
+image for a print. However, just be aware that changing any settings during
+image generation will mess up the contents of the output file.
+
 # Technology
 Simple WinForms and C#, nothing more. I want to extend it to 3D at some point
 (hence the loaded but broken project in the solution) but haven't had time to
